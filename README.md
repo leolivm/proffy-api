@@ -1,4 +1,4 @@
-<h3>
+<h3 align="center">
   proffy-api :bookmark_tabs:
 </h3>
 
